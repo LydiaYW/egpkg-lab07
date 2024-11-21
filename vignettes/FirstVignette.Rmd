@@ -21,6 +21,9 @@ x <- rnorm(100)
 y <- 2*x + rnorm(100)
 myplot(x, y)
 ```
+
+
+
 ```{r}
 knitr::include_graphics(system.file("Rlogo.jpeg", package = "egpkg"))
 ```
